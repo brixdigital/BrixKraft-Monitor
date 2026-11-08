@@ -1,0 +1,19 @@
+BrixKraft Monitor Freeware License
+
+Copyright (c) 2026 Joseph Abrique, BrixKraft. All rights reserved.
+
+You may download, install and use BrixKraft Monitor free of charge on any number of your own computers,
+for personal or work use.
+
+You may share the official download link.
+
+You may not:
+- sell, rent or charge for the software or any copy of it
+- upload or distribute modified copies of the software
+- decompile, reverse engineer or alter the software, except where the law allows it
+- remove or change the BrixKraft name, logo or copyright notice
+
+The software is provided "as is", without warranty of any kind. Joseph Abrique and BrixKraft are not
+liable for any damage or loss arising from its use.
+
+BrixKraft and the BrixKraft logo belong to Joseph Abrique.
